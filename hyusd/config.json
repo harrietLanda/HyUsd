@@ -1,0 +1,35 @@
+
+{
+    "FlowViewStyle": {
+    "BackgroundColor": [195, 195, 229],
+    "FineGridColor": [195, 195, 229],
+    "CoarseGridColor": [195, 195, 229]
+    },
+    "NodeStyle": {
+    "NormalBoundaryColor": "violet",
+    "SelectedBoundaryColor": "violet",
+    "GradientColor0": "mintcream",
+    "GradientColor1": "mintcream",
+    "GradientColor2": "mintcream",
+    "GradientColor3": "mintcream",
+    "ShadowColor": [200, 200, 200],
+    "FontColor": [10, 10, 10],
+    "FontColorFaded": [100, 100, 100],
+    "ConnectionPointColor": "white",
+    "PenWidth": 2.0,
+    "HoveredPenWidth": 2.5,
+    "ConnectionPointDiameter": 10.0,
+    "Opacity": 1.0
+    },
+    "ConnectionStyle": {
+    "ConstructionColor": "gray",
+    "NormalColor": "black",
+    "SelectedColor": "gray",
+    "SelectedHaloColor": "acajou",
+    "HoveredColor": "acajou",
+    "LineWidth": 0.0,
+    "ConstructionLineWidth": 2.0,
+    "PointDiameter": 10.0,
+    "UseDataDefinedColors": false
+    }
+}
